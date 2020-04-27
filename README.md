@@ -23,7 +23,9 @@ This plugin works with worpress post type,custom post type without using shortco
 -------------Procedure to create plugin : ----------------------------
 
  1.Create a folder name of your choice.
- 2.Create a file name called index.php
+ 
+ 2.Create a file name called index.php.
+ 
  3.Write header information like plugin name, Description, author etc...
     
    
