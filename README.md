@@ -19,11 +19,9 @@ This plugin works with worpress post type,custom post type without using shortco
 5. Once you click on share button your post will be share.
 
 6. No shortcode required
-    
-    
-      -------------Procedure to create plugin : ----------------------------
-        * Create a folder name of your choice.
-        * Create a file name called index.php
-        * Write header information like plugin name, Description, author etc...
+-------------Procedure to create plugin : ----------------------------
+ 1.Create a folder name of your choice.
+ 2.Create a file name called index.php
+ 3.Write header information like plugin name, Description, author etc...
     
    
