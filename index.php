@@ -4,7 +4,7 @@
 * Plugin URI: http://wordpress.org/plugins/
 * Description: Share your wordpress post on social media like facebook,twitter,pinterest,etc.
 * Author: Abhishek Srivastva
-* Author URI: https://www.ipraxa.com/
+* Author URI: #
 * Version: 1.0
 **/?>
 <?php 
