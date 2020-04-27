@@ -1,10 +1,11 @@
 #Wordpress Plugin to share your content on social media like facebook,twitter,instagram and pinterest.    
    === Description ===
+   
 This plugin works with worpress post type,custom post type without using shortcode.
 
 == Installation ==
 
-1. Upload Social Content Share from wordpress admin panel
+1. Download zip file from here and Upload Social Content Share from wordpress admin panel
 
 2. Activate the plugin through the 'Plugins' menu in WordPress
 
